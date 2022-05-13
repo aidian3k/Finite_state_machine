@@ -1,2 +1,2 @@
 # Finite_state_machine
-The project was created as part of the basics of computer science classes at the Warsaw University of Technology.
+The project was created as part of the basics of computer science classes at the Warsaw University of Technology. The program enables user to see working finite state machine. As an input the user has to give the string, which contains only from 0-1 letters. Then the user has to click on the start button and see wether the finite state machine accepted the given string or not.
